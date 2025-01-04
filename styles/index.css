@@ -8,4 +8,32 @@ p{
 
 body{
     background-image: url("../images/titir.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+        
+}
+
+.box{
+    /* margin: 10px rgb(109, 11, 11); */
+    /* border: 5px blue; */
+    background-color: aquamarine;
+    /* height: 10rem; */
+    width: 10rem;
+    text-align: center;
+    background-image: url("../images/property.png");
+    background-size: 10rem ;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    
+}
+
+img{
+    height: 200px;
+    width: 200px;
+   
 }
