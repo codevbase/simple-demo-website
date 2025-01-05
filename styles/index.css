@@ -1,5 +1,6 @@
 *{
     margin: 0;
+
 }
 
 p{
@@ -19,21 +20,31 @@ body{
     background-color: aquamarine;
     /* height: 10rem; */
     width: 10rem;
-    text-align: center;
-    background-image: url("../images/property.png");
+    text-align:left;
+    /* background-image: url("../images/property.png"); */
     background-size: 10rem ;
-    background-position: center;
+    /* background-position: center; */
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 25vh;
+    margin: 95% 95% 0% 0%;   
 
     
 }
 
+.info{
+    background-color: rgb(76, 227, 103);
+    /* display: block;
+    /* margin: 95% 95% 0% 0%;  */
+    /* width: fit-content; */ 
+}
+
+
 img{
-    height: 200px;
-    width: 200px;
+    height: 50px;
+    width: 50px;
+    
    
 }
