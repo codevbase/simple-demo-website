@@ -34,6 +34,12 @@ body{
     
 }
 
+#output{
+    color: #dfc8ce;
+    background-color: rgb(43, 101, 209);
+    width: 169px;
+}
+
 .info{
     background-color: rgb(76, 227, 103);
     /* display: block;
